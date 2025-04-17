@@ -46,7 +46,8 @@ sections:
       subtitle:
         textAlign: left
   - subtitle: Midori page
-    text: |2+
+    text: |+
+      ```
         <div class="content"><h3><table>
         <tr>
           <th>time</th>
@@ -77,6 +78,7 @@ sections:
           <td>7 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
           <td>8 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
           <td>9 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td> </tr></p></div>
+      ```
 
     actions: []
     colors: bg-light-fg-dark
