@@ -50,10 +50,6 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions: []
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
     badge:
       label: This is a badge
       color: text-primary
