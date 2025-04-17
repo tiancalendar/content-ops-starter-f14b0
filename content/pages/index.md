@@ -1,5 +1,5 @@
 ---
-title: Home
+title: midori
 slug: /
 sections:
   - type: FeaturedItemsSection
