@@ -34,7 +34,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "weekly",
             "altText": "",
             "url": "/calendar month",
             "showIcon": false,
