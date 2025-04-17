@@ -2,47 +2,6 @@
 title: midori
 slug: /
 sections:
-  - subtitle: Midori page
-    text: |+
-      ```
-        <div class="content"><h3><table>
-        <tr>
-          <th>time</th>
-          <th>a</th>
-          <th>b</th>
-          <th>c</th>
-        </tr>
-        <tr>
-          <td>6 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>7 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>8 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>9 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-        </tr>
-      <tr>
-          <td>10 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>11 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>12 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>1 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-        </tr>
-        <tr>
-          <td>2 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>3 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>4 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>5 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-        </tr>
-        <tr>
-          <td>6 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>7 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>8 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
-          <td>9 \[] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td> </tr></p></div>
-      ```
-
-    actions: []
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
   - title:
       text: Business Consulting
       color: text-dark
