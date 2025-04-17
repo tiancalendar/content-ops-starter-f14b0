@@ -23,7 +23,7 @@
     "primaryLinks": [
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "month",
             "altText": "",
             "url": "/calendar month",
             "showIcon": false,
