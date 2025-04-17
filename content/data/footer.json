@@ -3,7 +3,7 @@
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by Tian  (Copyright since 2025)\n",
-    "colors": "bg-dark-fg-light",
+    "colors": "bg-neutral-fg-dark",
     "type": "Footer",
     "styles": {
         "self": {
@@ -12,6 +12,9 @@
                 "pl-2",
                 "pb-2",
                 "pr-2"
+            ],
+            "margin": [
+                "mt-1"
             ]
         }
     }
