@@ -1,17 +1,49 @@
 {
     "logo": {
-        "url": "/images/Screenshot 2025-04-16 211059.png",
+        "url": "/images/Screenshot 2025-04-17 141838.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
+                    "mr-12",
+                    "mt-12",
+                    "ml-12",
+                    "mb-12"
+                ],
+                "padding": [
+                    "pt-0",
+                    "pl-0",
+                    "pb-0",
+                    "pr-0"
                 ]
             }
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Button",
+            "label": "month",
+            "altText": "",
+            "url": "/calendar month",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        },
+        {
+            "type": "Button",
+            "label": "weekly",
+            "altText": "",
+            "url": "/calendar month",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
