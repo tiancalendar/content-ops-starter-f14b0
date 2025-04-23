@@ -1,7 +1,7 @@
 ---
 title: '1'
 slug: top-ten-lessons-we-learned
-date: '2025-01-02'
+date: ''
 excerpt: .
 featuredImage:
   url: /images/Screenshot 2025-04-16 211059.png
