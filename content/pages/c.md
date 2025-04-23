@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: cornell
-        tagline: Feature 1
+        tagline: '1.'
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
