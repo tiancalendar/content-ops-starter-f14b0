@@ -66,7 +66,7 @@ sections:
               - pr-9
             textAlign: center
             borderRadius: large
-            flexDirection: row
+            flexDirection: col
             justifyContent: center
     variant: next-prev-nav
     colors: bg-light-fg-dark
