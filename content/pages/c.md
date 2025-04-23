@@ -6,31 +6,6 @@ sections:
     subtitle: Cornell page
     items:
       - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2025-04-17 141838.png
-          altText: ''
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-      - type: FeaturedItem
         title: cornell
         tagline: ''
         subtitle: cornell notes
@@ -57,6 +32,31 @@ sections:
               borderRadius: full
         actions: []
         colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: ''
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2025-04-17 141838.png
+          altText: ''
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
