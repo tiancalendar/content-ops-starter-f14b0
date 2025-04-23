@@ -10,7 +10,23 @@ sections:
         tagline: ''
         subtitle: cornell notes
         text: |+
+          ```
+          <html><body><table>
+            <tr>
+              <th><textarea name="myTextBox" cols="10" rows="20"></th>
+              <th><textarea name="myTextBox" cols="30" rows="20"></th>
+          </tr>
+          ```
 
+          ```
+          </table></body></html>
+          ```
+
+          ```
+
+
+
+          ```
 
         image:
           type: ImageBlock
