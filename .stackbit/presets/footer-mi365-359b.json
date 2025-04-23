@@ -1,0 +1,43 @@
+{
+    "model": "Footer",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "mi365",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "white"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "_filePath_slug": "footer",
+                "logo": null,
+                "title": "Midori time hours",
+                "text": " <td>Today Date is<textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n\n<table>\n <tr><th>time</th><th>a</th><th>b</th><th>c</th></tr>\n\n<tr>\n<td>6 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>7 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>8 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>9 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n\n<td>Side notes <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n</tr>\n<tr>\n<td>10 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>11 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>12 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>1 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n\n<td>Side notes <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n</tr>\n\n<tr>\n<td>2 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>3 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>4 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>5 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n\n<td>Side notes <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n</tr>\n<tr>\n<td>6 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>7 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n<td>8 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n\n <td>9 \\[] <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>  <td>Side notes <textarea name=\"myTextBox\" cols=\"20\" rows=\"2\"> </textarea></td>\n\n</tr>  \n",
+                "primaryLinks": null,
+                "secondaryLinks": null,
+                "socialLinks": [],
+                "legalLinks": [],
+                "copyrightText": "Powered by T (Copyright since 2025)\n",
+                "colors": "bg-light-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-2",
+                            "pl-2",
+                            "pb-2",
+                            "pr-2"
+                        ],
+                        "margin": [
+                            "mt-1"
+                        ]
+                    }
+                }
+            },
+            "thumbnail": "images/footer-mi365-359b.png"
+        }
+    ]
+}
