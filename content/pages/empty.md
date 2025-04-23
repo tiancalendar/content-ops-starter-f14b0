@@ -32,7 +32,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: cornell
-        tagline: cornell page
+        tagline: ''
         subtitle: cornell notes
         text: |+
           <html><body><table>
