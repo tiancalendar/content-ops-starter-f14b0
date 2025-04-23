@@ -31,7 +31,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ''
+        title: cornell
         tagline: cornell page
         subtitle: ''
         text: |+
