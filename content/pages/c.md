@@ -79,7 +79,7 @@ sections:
       - type: FeaturedItem
         title: Cornell
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Midori
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
