@@ -12,7 +12,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Screenshot 2025-04-17 141838.png
           altText: Maria Walters
           styles:
             self:
