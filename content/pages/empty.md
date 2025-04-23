@@ -44,7 +44,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/img-placeholder-dark.png
+          url: /images/Screenshot 2025-04-17 141838.png
           altText: Jane Doe
           styles:
             self:
