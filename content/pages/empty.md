@@ -31,14 +31,16 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: ''
-        tagline: cornell page
-        subtitle: ''
+        title: cornell
+        tagline: ''
+        subtitle: cornell notes
         text: |+
-          <html><body><div class="content"><h3><table>
+          ```
+          <html><body><table>
             <tr>
               <th><textarea name="myTextBox" cols="10" rows="20"></th>
               <th><textarea name="myTextBox" cols="30" rows="20"></th>
+          ```
 
           </table></body></html>
 
