@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: cornell
         tagline: '1.'
-        subtitle: Increase your reach
+        subtitle: '2.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
