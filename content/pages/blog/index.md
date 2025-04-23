@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: c
 slug: /blog
 numOfPostsPerPage: 0
 enableSearch: true
