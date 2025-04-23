@@ -1,5 +1,5 @@
 ---
-title: '1'
+title: created.
 slug: top-ten-lessons-we-learned
 date: '2025-03-16'
 excerpt: .
