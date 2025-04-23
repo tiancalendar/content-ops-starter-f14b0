@@ -43,17 +43,11 @@ sections:
           <tr>
 
 
-
-
           <td>summary <textarea name="myTextBox" cols="20" rows="20">
           </textarea></td>
-              <td> notes <textarea name="myTextBox" cols="20" rows="40"> </textarea></td>
-
-
+              <td> notes <textarea name="myTextBox" cols="40" rows="20"> </textarea></td>
 
           </tr>
-
-
 
 
           </table></body></html>
