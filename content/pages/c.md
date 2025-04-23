@@ -9,15 +9,13 @@ sections:
         tagline: '1.'
         subtitle: '2.'
         text: >+
-
-
           ```
 
           <html><body>
 
-          <table><tr><td>6 [] <textarea name="myTextBox" cols="20" rows="2">
+          <table><tr><td> <textarea name="myTextBox" cols="20" rows="2">
           </textarea></td>
-              <td>7 [] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
+              <td><textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
           </tr>
 
           </table></body></html>
