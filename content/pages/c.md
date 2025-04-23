@@ -47,6 +47,10 @@ sections:
           </table></body></html>
           ```
 
+
+
+
+
         image:
           type: ImageBlock
           altText: Jane Doe
