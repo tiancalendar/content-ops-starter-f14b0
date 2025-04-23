@@ -37,8 +37,8 @@ sections:
         text: |+
           <html><body><div class="content"><h3><table>
             <tr>
-              <th><textarea name="myTextBox" cols="20" rows="2"></th>
-              <th><textarea name="myTextBox" cols="20" rows="2"></th>
+              <th><textarea name="myTextBox" cols="10" rows="20"></th>
+              <th><textarea name="myTextBox" cols="30" rows="20"></th>
 
           </table></body></html>
 
