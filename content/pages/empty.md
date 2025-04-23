@@ -35,10 +35,12 @@ sections:
         tagline: ''
         subtitle: cornell notes
         text: |+
+          ```
           <html><body><table>
             <tr>
               <th><textarea name="myTextBox" cols="10" rows="20"></th>
               <th><textarea name="myTextBox" cols="30" rows="20"></th>
+          ```
 
           </table></body></html>
 
