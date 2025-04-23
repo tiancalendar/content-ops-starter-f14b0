@@ -26,7 +26,7 @@ bottomSections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: '1.'
       color: text-dark
       styles:
         self:
