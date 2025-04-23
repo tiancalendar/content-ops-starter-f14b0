@@ -34,10 +34,12 @@ sections:
         title: ''
         tagline: cornell page
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          <div class="content"><h3><table>
+            <tr>
+              <th><textarea name="myTextBox" cols="20" rows="2"></th>
+              <th><textarea name="myTextBox" cols="20" rows="2"></th>
+
         image:
           type: ImageBlock
           url: /images/img-placeholder-dark.png
