@@ -1,26 +1,61 @@
 ---
 type: PageLayout
-title: c
+title: cornell
 sections:
   - type: CarouselSection
-    subtitle: ''
     items:
       - type: FeaturedItem
         title: cornell
-        tagline: ''
-        subtitle: cornell notes
-        text: |+
+        tagline: '1.'
+        subtitle: '2.'
+        text: >+
           ```
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+          _______________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
           ```
 
         image:
           type: ImageBlock
-          altText: Jane Doe
+          altText: Featured item
           styles:
             self:
-              borderRadius: full
+              borderRadius: medium
         actions: []
-        colors: bg-neutral-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -33,56 +68,23 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Cornell
-        tagline: ''
-        subtitle: Midori
-        text: >+
-          <html><body> <div class="content"><h3><table>
-
-
-          <tr>
-
-
-          <td>summary <textarea name="myTextBox" cols="20" rows="20">
-          </textarea></td>
-              <td> notes <textarea name="myTextBox" cols="40" rows="20"> </textarea></td>
-
-          </tr>
-
-
-          </table></body></html>
-
+        title: Business Consulting
+        tagline: Feature 2
+        subtitle: Be in good company
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
         image:
           type: ImageBlock
-          altText: Placeholder text
+          url: /images/img-placeholder.svg
+          altText: Business consulting
+          elementId: ''
           styles:
             self:
-              borderRadius: x-large
+              borderRadius: medium
         actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-      - type: FeaturedItem
-        title: ''
-        tagline: ''
-        subtitle: ''
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2025-04-17 141838.png
-          altText: ''
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -90,11 +92,11 @@ sections:
               - pb-9
               - pl-9
               - pr-9
-            textAlign: center
+            textAlign: left
             borderRadius: large
-            flexDirection: col
-            justifyContent: flex-start
-    variant: next-prev-nav
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
       self:
@@ -102,7 +104,12 @@ sections:
       subtitle:
         textAlign: center
 slug: c
-isDraft: true
+isDraft: false
 seo:
   type: Seo
+  metaTitle: Landing Page
+  metaDescription: Write here your new page's description including most relevant keywords.
+  addTitleSuffix: true
+  socialImage: /images/main-hero.jpg
+  metaTags: []
 ---
