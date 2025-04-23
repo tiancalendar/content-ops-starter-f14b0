@@ -43,7 +43,9 @@ sections:
           </tr>
           ```
 
+          ```
           </table></body></html>
+          ```
 
         image:
           type: ImageBlock
