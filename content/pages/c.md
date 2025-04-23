@@ -80,8 +80,28 @@ sections:
         title: Cornell
         tagline: ''
         subtitle: Midori
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          <html><body> <div class="content"><h3><table>
+
+
+          <tr>
+
+
+
+
+          <td>summary <textarea name="myTextBox" cols="20" rows="20">
+          </textarea></td>
+              <td> notes <textarea name="myTextBox" cols="20" rows="40"> </textarea></td>
+
+
+
+          </tr>
+
+
+
+
+          </table></body></html>
+
         image:
           type: ImageBlock
           altText: Placeholder text
