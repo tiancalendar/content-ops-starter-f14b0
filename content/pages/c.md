@@ -3,7 +3,7 @@ type: PageLayout
 title: c
 sections:
   - type: CarouselSection
-    subtitle: Cornell page
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: cornell
