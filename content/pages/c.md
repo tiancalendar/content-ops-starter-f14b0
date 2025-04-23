@@ -8,10 +8,22 @@ sections:
         title: cornell
         tagline: '1.'
         subtitle: '2.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+
+          ```
+
+          <html><body>
+
+          <table><tr><td>6 [] <textarea name="myTextBox" cols="20" rows="2">
+          </textarea></td>
+              <td>7 [] <textarea name="myTextBox" cols="20" rows="2"> </textarea></td>
+          </tr>
+
+          </table></body></html>
+
+          ```
+
         image:
           type: ImageBlock
           altText: Featured item
