@@ -11,13 +11,20 @@ sections:
         subtitle: cornell notes
         text: |+
           ```
+          <html><body><table>
+            <tr>
+              <th><textarea name="myTextBox" cols="5" rows="20"></th>
+              <th><textarea name="myTextBox" cols="15" rows="20"></th>
+          </tr>
           ```
 
           ```
-
-
-
+          </table></body></html>
           ```
+
+
+
+
 
         image:
           type: ImageBlock
