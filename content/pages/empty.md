@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: month
+title: c
 sections:
   - type: CarouselSection
     subtitle: Cornell page
