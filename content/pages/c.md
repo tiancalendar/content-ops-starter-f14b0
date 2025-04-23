@@ -9,52 +9,8 @@ sections:
         title: cornell
         tagline: ''
         subtitle: cornell notes
-        text: >+
+        text: |+
           ```
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-          _________________________|__________________________________________________
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
           ```
 
         image:
@@ -76,6 +32,43 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Cornell
+        tagline: ''
+        subtitle: Midori
+        text: >+
+          <html><body> <div class="content"><h3><table>
+
+
+          <tr>
+
+
+          <td>summary <textarea name="myTextBox" cols="20" rows="20">
+          </textarea></td>
+              <td> notes <textarea name="myTextBox" cols="40" rows="20"> </textarea></td>
+
+          </tr>
+
+
+          </table></body></html>
+
+        image:
+          type: ImageBlock
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
       - type: FeaturedItem
         title: ''
         tagline: ''
