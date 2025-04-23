@@ -3,7 +3,7 @@
     "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "Powered by T (Copyright since 2025)\n",
-    "colors": "bg-neutral-fg-dark",
+    "colors": "bg-light-fg-dark",
     "type": "Footer",
     "styles": {
         "self": {
