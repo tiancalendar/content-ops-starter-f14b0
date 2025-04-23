@@ -13,7 +13,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Screenshot 2025-04-17 141838.png
-          altText: Maria Walters
+          altText: ''
           styles:
             self:
               borderRadius: full
