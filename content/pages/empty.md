@@ -32,7 +32,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: ''
-        tagline: Testimonial 2
+        tagline: cornell page
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
