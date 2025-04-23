@@ -13,18 +13,14 @@ sections:
           ```
           <html><body><table>
             <tr>
-              <th><textarea name="myTextBox" cols="5" rows="20"></th>
-              <th><textarea name="myTextBox" cols="15" rows="20"></th>
+              <th><textarea name="myTextBox" cols="25" rows="20"></th>
+              <th><textarea name="myTextBox" cols="45" rows="20"></th>
           </tr>
           ```
 
           ```
           </table></body></html>
           ```
-
-
-
-
 
         image:
           type: ImageBlock
