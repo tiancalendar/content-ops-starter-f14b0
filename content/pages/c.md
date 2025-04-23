@@ -103,4 +103,6 @@ sections:
         textAlign: center
 slug: c
 isDraft: true
+seo:
+  type: Seo
 ---
