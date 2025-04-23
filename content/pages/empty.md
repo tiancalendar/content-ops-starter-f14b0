@@ -9,8 +9,7 @@ sections:
         title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          .
+        text: ''
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png
