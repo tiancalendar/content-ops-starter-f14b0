@@ -3,7 +3,7 @@ type: PageLayout
 title: month
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Cornell page
     items:
       - type: FeaturedItem
         title: ''
