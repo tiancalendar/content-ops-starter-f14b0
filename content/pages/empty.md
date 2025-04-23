@@ -33,7 +33,7 @@ sections:
       - type: FeaturedItem
         title: cornell
         tagline: cornell page
-        subtitle: ''
+        subtitle: cornell notes
         text: |+
           <html><body><table>
             <tr>
